@@ -12,7 +12,7 @@ git clone https://github.com/YoelEigner/books-server.git
 ```
 2. Navigate into the cloned repository using 
 ```bash
-cd task-api
+cd books-server
 ```
 3. Install the project dependencies using
 ```bash
